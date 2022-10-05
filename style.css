@@ -23,7 +23,7 @@ About
     text-align: center;
 }
 #about img{
-    border-radius: 50%;
+    border-radius: 70%;
     width: 120px;
     margin-bottom: 10px;
 }
@@ -43,4 +43,11 @@ About
 #about .email{
     margin-top: 14px;
     font-size: 14px;
+}
+#about .icons{
+    margin-top: 20px;
+    font-size: 30px;
+}
+#about .icons a{
+    color: #000;
 }
